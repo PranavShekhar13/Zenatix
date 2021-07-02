@@ -69,7 +69,7 @@ sudo systemctl start metricbeat
 
 
 ### 5. Results
-()
+(Screenshot from 2021-07-02 22-20-01.png)
 
 
 
