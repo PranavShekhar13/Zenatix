@@ -66,11 +66,21 @@ sudo systemctl start metricbeat
 
 ```
 ### 4. Go to Kibana Server http://localhost:5601/app/kibana/  > Metrics > Add Metrics Data > Module Status > Click on Check Data > Click on System Metrics Dashboard
-
+<br>
 
 ### 5. Results
+<br>
+<br>
 
 <img  align='center' src="./img/Kibana.png">
+<br>
+<br>
 
+### 6. Same solution with Prometheus and Grafana servers over AWS Cloud.
+<br>
+<br>
+<img  align='center' src="./img/Grafana.png">
+<br>
+<br>
 
 
