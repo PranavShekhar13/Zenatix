@@ -28,7 +28,7 @@ python zenatix.py
 
 ```
 
-### 6. Check indices for elastic search.
+### 6. Check indices for ElasticSearch.
 
 ```
 
@@ -36,5 +36,5 @@ curl -X GET "http://localhost:9200/_cat/indices?v"
 
 ```
 
-### 7. Open Kibana Server again- Connect to index metrics and play with the dashboard.
+### 7. Open Kibana Server again- Connect to index 'metrics' and play with the dashboard.
 
