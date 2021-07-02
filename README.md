@@ -18,7 +18,7 @@ docker-compose ps
 
 ```
 
-### 4. Check Kibana Server running on (http://localhost:5601)
+### 4. Check Kibana Server running on http://localhost:5601
 
 ### 5. Go to terminal and run zenatix.py
 
@@ -37,4 +37,9 @@ curl -X GET "http://localhost:9200/_cat/indices?v"
 ```
 
 ### 7. Open Kibana Server again- Connect to index 'metrics' and play with the dashboard.
+
+
+## Same but more effective solution with MetricBeat.
+
+### 1. Download, install and configure MetricBeat according to your system requirements :- [MetricBeat Setup]https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-installation-configuration.html
 
