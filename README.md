@@ -1,7 +1,7 @@
 # Zenatix
 ## Zenatix Solutions Assignment - Montoring Local Machine with Elastic Search and Kibana
 
-## 1. Clone Repository
+### 1. Clone Repository
 
 ### 2. Project Set-Up - Change to cloned directory.
 
