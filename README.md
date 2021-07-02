@@ -37,9 +37,39 @@ curl -X GET "http://localhost:9200/_cat/indices?v"
 ```
 
 ### 7. Open Kibana Server again- Connect to index 'metrics' and play with the dashboard.
-
+<br>
+<br>
 
 ## Same but more effective solution with MetricBeat.
+<br>
 
 ### 1. Download, install and configure MetricBeat according to your system requirements :- [MetricBeat Setup](https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-installation-configuration.html)
+
+### 2. Check your configuration.
+```
+
+sudo metricbeat test output
+
+```
+
+### 3. Enable and start the service of MetricBeat.
+
+```
+
+sudo metricbeat setup
+
+```
+
+```
+
+sudo systemctl start metricbeat
+
+```
+### 4. Go to Kibana Server http://localhost:5601/app/kibana/  > Metrics > Add Metrics Data > Module Status > Click on Check Data > Click on System Metrics Dashboard
+
+
+### 5. Results
+()
+
+
 
