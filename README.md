@@ -41,5 +41,5 @@ curl -X GET "http://localhost:9200/_cat/indices?v"
 
 ## Same but more effective solution with MetricBeat.
 
-### 1. Download, install and configure MetricBeat according to your system requirements :- [MetricBeat Setup]https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-installation-configuration.html
+### 1. Download, install and configure MetricBeat according to your system requirements :- [MetricBeat Setup](https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-installation-configuration.html)
 
